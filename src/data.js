@@ -2354,6 +2354,29 @@ module.exports = [
     ],
   },
   {
+    name: 'Teo Almonte',
+    description:
+      'E-commerce Web Developer Expert, Shopify Partner, Loves Javascript',
+    url: 'https://teoalmonte.com',
+    twitter: '@teoalmonte',
+    emoji: '✨',
+    country: '🇺🇸',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'JavaScript',
+      'React',
+      'Vue',
+      'Node',
+      'CSS',
+      'SEO',
+      'Next',
+      'Firebase',
+    ],
+  },
+  {
     name: 'Talita Oliveira',
     description:
       'Software Developer. Loves CSS and Javascript. Already worked with PHP and a little with JAVA.',
