@@ -2357,7 +2357,7 @@ module.exports = [
     name: 'Teo Almonte',
     description:
       'E-commerce Web Developer Expert, Shopify Partner, Loves Javascript',
-    url: 'https://teoalmonte.com',
+    url: 'https://teoalmonte.com#uses',
     twitter: '@teoalmonte',
     emoji: '✨',
     country: '🇺🇸',
